@@ -1,0 +1,4 @@
+
+User-agent: *
+Allow: /
+Sitemap: https://sulutdrag.github.io/sulut/sitemap.xml
